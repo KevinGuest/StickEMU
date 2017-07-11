@@ -1,0 +1,1 @@
+<cross-domain-policy><allow-access-from domain="YOUR IP HERE" to-ports="1138,80" /></cross-domain-policy>
